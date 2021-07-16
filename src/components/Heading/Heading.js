@@ -12,8 +12,9 @@ const Heading = (props) => (
                 Oleg Kutas
             </SectionTitle>
             <SectionText>
-                System Administrator and Front-End Developer who loves to code and learn new things each day.
+                System Administrator and Front-End Developer who loves to code and learn new things.
             </SectionText>
+            <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
         </LeftSection>
     </Section>
 );
