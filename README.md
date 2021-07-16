@@ -1,3 +1,3 @@
 ## My Website
 
-![My Website](https://ibb.co/DfNZV4j/page)
+![My Portfolio](https://ibb.co/DfNZV4j/page)
