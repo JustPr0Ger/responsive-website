@@ -1,3 +1,3 @@
 ## My Website
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+![My Website](https://ibb.co/DfNZV4j/page)
