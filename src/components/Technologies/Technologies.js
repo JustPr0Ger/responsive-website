@@ -8,9 +8,6 @@ const Technologies = () =>  (
         <SectionDivider />
         <br />
         <SectionTitle>Technologies</SectionTitle>
-        <SectionText>
-            Я пью воду
-        </SectionText>
         <List>
             <ListItem>
                 <DiReact size="3rem" />
